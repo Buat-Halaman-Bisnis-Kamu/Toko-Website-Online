@@ -48,7 +48,7 @@
     <img src="https://pbs.twimg.com/profile_images/1267972589722296320/XBr04M6J_400x400.jpg" class="rounded-circle shadow border mt-4" width="100px">
   </div>
   <h4 class="mt-2">
-    WeRateDogs
+    @klikshop01
   </h4>
   <span class="text-muted">@dog_rates</span>
 </div>
