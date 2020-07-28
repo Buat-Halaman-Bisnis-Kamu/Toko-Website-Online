@@ -8,7 +8,7 @@
 <tr>
 </tr>
 <li><a href="https://facebook.com/klikshop01" target="_blank">Toko-Website-Online</a></li>
-<li><a href="https://www.niagahoster.co.id" target="_blank">Paket Pelajar</a></li>
+<li><a href="https://onlineshoopshop.wordpress.com/" target="_blank">onlineshoopshop</a></li>
 <li><a href="https://www.niagahoster.co.id" target="_blank">Paket Personal</a></li>
 <li><a href="https://www.niagahoster.co.id" target="_blank">Paket Bisnis</a></li>
 </tr>
