@@ -38,25 +38,4 @@
 </tr>
 </table>
 
-<div>
-<h2>Hubungi Kami</h2>
-<form action=" index.html" method="get">
-<div>
-<input type="text" name="nama" placeholder="Nama Anda" required="" />
-</div><br>
-<div>
-<input type="text" name="email" placeholder="Masukkan Email Anda" required="" >
-</div><br>
-<div>
-<input type="text" name="subject" placeholder="Subjek" required="">
-</div><br>
-<div>
-<textarea type="text" name="pesan" rows="10" cols="30" placeholder="Pertanyaan"></textarea>
-</div><br>
-<div>
-<input type="submit" value="Kirim Sekarang" >
-</div>
-</form>
-</div>
-</body>
 </html>
