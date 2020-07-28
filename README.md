@@ -50,7 +50,7 @@
   <h4 class="mt-2">
     @klikshop01
   </h4>
-  <span class="text-muted">@dog_rates</span>
+  <span class="text-muted">@subolshop</span>
 </div>
 
 <!-- Include external CSS, JavaScript or Fonts! -->
