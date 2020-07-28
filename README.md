@@ -42,8 +42,7 @@
 </html>
 <div class="p-4 text-center mt-4" style="width: 500px">
   <span class="tweet-text mb-4">
-    This is Little Bear. He tolerates baths because he knows how phenomenal his
-    floof will appear afterwards. 13/10
+    Ini Little Bear. Dia mentolerir mandi karena dia tahu betapa fenomenal nya floof akan muncul setelahnya. 13/10
   </span>
   <div class="mt-2 p-4">
     <img src="https://pbs.twimg.com/profile_images/1267972589722296320/XBr04M6J_400x400.jpg" class="rounded-circle shadow border mt-4" width="100px">
