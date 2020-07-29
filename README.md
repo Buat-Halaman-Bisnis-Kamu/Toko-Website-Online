@@ -14,10 +14,10 @@
 </tr>
 <table border="1">
 <tr>
-<td>Bayi</td>
-<td>Pelajar</td>
-<td>Personal</td>
-<td>Bisnis</td>
+<td>Toko-Website-Online</td>
+<td>onlineshoopshop</td>
+<td>Paket Bisnis</td>
+<td>Paket Bisnis</td>
 </tr>
 <tr>
 <td>Rp 19.800/ bln</td>
